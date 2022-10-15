@@ -1,0 +1,84 @@
+.logo-1 {
+    background-color: #ffc800;
+    color: #212529;
+    padding: 5px;
+}
+
+.logo-2 {
+    font-size: 1.1rem;
+}
+
+header.masthead .masthead-subheading {
+    font-size: 1.5rem;
+    font-style: normal;
+    line-height: 1.5rem;
+    margin-bottom: 25px;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header.masthead .masthead-heading {
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.btn-primary {
+    color: #212529;
+}
+
+.portfolio .portfolio-item .portfolio-caption .product-heading {
+    font-size: 1.3rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    margin-bottom: 0;
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+.portfolio .portfolio-item .portfolio-caption .product-description {
+    font-size: 0.75rem;
+    font-style: normal;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: left;
+    color: grey;
+}
+
+.portfolio .portfolio-item .portfolio-caption .product-price {
+    font-weight: 700;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: right;
+}
+
+.portfolio .portfolio-item .portfolio-caption .product-price .price-amount {
+    font-size: 1.3rem;
+}
+
+.portfolio .portfolio-item .portfolio-link {
+    max-height: 237px;
+    overflow-y: hidden;
+}
+
+.portfolio .portfolio-item .portfolio-link img {
+    min-height: 237px;
+}
+
+.client .section-subheading {
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin-bottom: 4rem;
+}
+
+.btn-light {
+    border-color: lightgrey;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.form-control {
+    border-radius: 0;
+}

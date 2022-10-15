@@ -1,0 +1,45 @@
+.product-img {
+    width: 550px;
+}
+
+.product-heading {
+    font-size: 1.45rem;
+    font-weight: 700;
+}
+
+.ratings {
+    color: #d9aa00;
+}
+
+.comments a {
+    color: black;
+}
+
+.description {
+    color: darkgrey;
+}
+
+.price-amount {
+    font-size: 1.6rem;
+    color: #d9aa00;
+}
+
+.dollar-sign {
+    color: #d9aa00;
+}
+
+.add-to-cart select {
+    width: 50px;
+}
+
+.page-section {
+    padding: 1.5rem 0;
+}
+
+#page-top {
+    padding: 5rem;
+}
+
+.product-info p {
+    color: dimgray;
+}
