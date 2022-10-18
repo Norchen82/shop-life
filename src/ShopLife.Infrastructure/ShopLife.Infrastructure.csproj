@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DbAccess\" />
+    <Folder Include="Cache\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopLife.Application\ShopLife.Application.csproj" />
+  </ItemGroup>
+
 </Project>

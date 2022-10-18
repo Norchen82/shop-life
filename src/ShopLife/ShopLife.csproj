@@ -10,4 +10,9 @@
     <PackageReference Include="NSwag.AspNetCore" Version="13.17.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShopLife.Application\ShopLife.Application.csproj" />
+    <ProjectReference Include="..\ShopLife.Infrastructure\ShopLife.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
