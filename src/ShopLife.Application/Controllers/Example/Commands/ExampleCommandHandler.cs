@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using ShopLife.Application.InfraTool.Example;
 
-namespace ShopLife.Application.CommandHandler.Example;
+namespace ShopLife.Application.Controllers.Example.Commands;
 
 internal class ExampleCommandHandler : IRequestHandler<ExampleRequest, ExampleResponse>
 {

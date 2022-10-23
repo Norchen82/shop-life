@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ShopLife.Application.CommandHandler.Example;
+using ShopLife.Application.Controllers.Example.Commands;
 
 namespace ShopLife.UI.Controllers;
 
