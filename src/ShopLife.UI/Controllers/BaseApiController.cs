@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ShopLife.Controllers;
+namespace ShopLife.UI.Controllers;
 
 /// <summary>
 /// Api Controller 基底

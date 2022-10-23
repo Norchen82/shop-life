@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopLife.Application.CommandHandler.Example;
 
-namespace ShopLife.Controllers;
+namespace ShopLife.UI.Controllers;
 
 /// <summary>
 /// 範例Controller
