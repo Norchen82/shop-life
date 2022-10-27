@@ -10,6 +10,10 @@
     <Folder Include="Common\AOP\" />
     <Folder Include="Common\Exceptions\" />
     <Folder Include="Common\Interfaces\" />
+    <Folder Include="Controllers\Example\EventHandlers\" />
+    <Folder Include="Controllers\Example\Queries\" />
+    <Folder Include="Controllers\Product\EventHandlers\" />
+    <Folder Include="Controllers\Product\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
