@@ -15,4 +15,9 @@
     <ProjectReference Include="..\ShopLife.Infrastructure\ShopLife.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Filters\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
